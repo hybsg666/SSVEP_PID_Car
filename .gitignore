@@ -1,0 +1,30 @@
+# Keil MDK 编译产物
+OBJ/
+*.o
+*.axf
+*.hex
+*.bin
+*.crf
+*.d
+*.dep
+*.lst
+*.lnp
+*.htm
+*.sct
+*.map
+*.bak
+*.tmp
+*.iex
+*.plg
+*.mpj
+*.ddk
+*.edk
+*.mpf
+*.omf
+*.rpt
+*.__i
+*.tra
+JLinkLog.txt
+
+# Keil 每个用户的窗口布局状态（含本机用户名，不入库）
+*.uvguix.*
