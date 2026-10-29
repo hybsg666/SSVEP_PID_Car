@@ -1,4 +1,5 @@
 项目名称：基于脑机接口的四轮车运动控制系统（STM32F407）
+演示视频：【i瑞集团赛道视频】https://www.bilibili.com/video/BV1D5sd6qEPV?vd_source=17448070ebaaecc96f881a46127a8576
 角色：嵌入式控制 / 运动控制算法
 技术栈：C、STM32F407、标准外设库、FreeRTOS、UART/蓝牙、增量式 PI、PD 控制、霍尔编码器、PWM 电机驱动、MPU6050
 项目描述：
